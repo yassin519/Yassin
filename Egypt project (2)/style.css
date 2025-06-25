@@ -1,0 +1,51 @@
+header{
+    background-color: #EDC9AF;
+    padding: 20px;
+    color: #1C1C1C;
+    font-size: 24px;
+    text-align: center;
+    
+}
+nav{
+    background: #B97C50;
+    padding: 10px;
+}
+nav a:hover{
+    background-color: #FFD700;
+    color: black;
+    font-size: larger;
+}
+nav a{
+    color: #1C1C1C;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+    text-align: center;
+    font-size: large;
+}
+img{
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+
+}
+.Home{
+    font-size: 24px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+p{
+    font-size: 24px;
+}
+body{
+    font-family: 'Georgia', serif;
+    background-color: #FFF8E7;
+
+
+}
+h4{
+    font-size: 28px;
+}
+
